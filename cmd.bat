@@ -1,0 +1,1 @@
+type D:\MOIWEB\AIMOI\web.config
